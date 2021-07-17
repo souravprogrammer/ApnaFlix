@@ -1,0 +1,117 @@
+{
+    "random" : [
+        {
+            "title" : "one piece" ,
+            "description" : "Gol D. Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates" ,
+            "img" : "../assets/test.jpg",
+            "genre":["action","advanture","comedy","fantasy","super power","shounen"]
+        },
+        {
+            "title" : "Hime Chen! Otogi Chikku Idol Lilpri" ,
+            "description" : "The Fairytale World is in trouble. Its princesses and their respective worlds are disappearing, causing a ripple effect in the human world where their stories are popular. In order to save the Fairytale World, the Queen sends three magic animals..." ,
+            "img" : "../assets/HimeChen!OtogiChikkuIdolLilpri.jpg",
+            "genre":["magic","shojuo"]
+        }
+    ] ,
+    "announcement" : "Welcome to ApnaFlix Version 2.0! Feel free to join and contribute.  Make sure to join our discord server :)Expect some bugs. Do not hesitate to report it to us!. We're happy to help you and improve our site. Thank you.",
+   
+    "recentlyadded" : [
+        {
+            "title" : "Jujutsu Kaisen (TV)",
+            "img" : "../assets/jju.jpg",
+            "episode" : "Episode 24"
+        },
+        {
+            "title" : "Boku no Hero Academia 5th Season",
+            "img" : "../assets/mha.jpg",
+            "episode" : "Episode 16"
+        },
+        {
+            "title" : "Black Clover (TV) (Dub)",
+            "img" : "../assets/blackclover.jpg",
+            "episode" : "Episode 159"
+        },
+        {
+            "title" : "one piece" ,
+            "img" : "../assets/test.jpg",
+            "episode" : "Episode 986"
+        },
+        {
+            "title" : "Jujutsu Kaisen (TV)",
+            "img" : "../assets/jju.jpg",
+            "episode" : "Episode 24"
+        },
+        {
+            "title" : "Boku no Hero Academia 5th Season",
+            "img" : "../assets/mha.jpg",
+            "episode" : "Episode 16"
+        },
+        {
+            "title" : "Black Clover (TV) (Dub)",
+            "img" : "../assets/blackclover.jpg",
+            "episode" : "Episode 159"
+        },
+        {
+            "title" : "one piece" ,
+            "img" : "../assets/test.jpg",
+            "episode" : "Episode 986"
+        }
+    ],
+
+    "trending" : [
+
+        {
+            "title" : "Naruto: Shippuuden (Dub)",
+            "img" : "../assets/narutoShippuden.jpg",
+            "episode" : "Episode 500"
+        },
+        {
+            "title" : "Boruto: Naruto Next Generations",
+            "img" : "../assets/boruto.jpg",
+            "episode" : "Episode 207"
+        },
+        {
+            "title" : "Black Clover (TV) (Dub)",
+            "img" : "../assets/blackclover.jpg",
+            "episode" : "Episode 159"
+        },
+        {
+            "title" : "Jujutsu Kaisen (TV)",
+            "img" : "../assets/jju.jpg",
+            "episode" : "Episode 24"
+        },
+        {
+            "title" : "Boku no Hero Academia 5th Season",
+            "img" : "../assets/mha.jpg",
+            "episode" : "Episode 16"
+        },
+        {
+            "title" : "Black Clover (TV) (Dub)",
+            "img" : "../assets/blackclover.jpg",
+            "episode" : "Episode 159"
+        },
+        {
+            "title" : "one piece" ,
+            "img" : "../assets/test.jpg",
+            "episode" : "Episode 986"
+        }
+    ],
+
+    "ongoing" : [
+        {
+            "title" : "Boku no Hero Academia 5th Season",
+            "img" : "../assets/mha.jpg",
+            "episode" : "Episode 16"
+        },
+        {
+            "title" : "Black Clover (TV) (Dub)",
+            "img" : "../assets/blackclover.jpg",
+            "episode" : "Episode 159"
+        },
+        {
+            "title" : "one piece" ,
+            "img" : "../assets/test.jpg",
+            "episode" : "Episode 986"
+        }
+    ]
+}
